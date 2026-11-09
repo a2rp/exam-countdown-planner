@@ -13,7 +13,7 @@ Add an exam with its subject, date, priority, and an optional coverage note. The
 ## Features
 
 - Countdown to the nearest scheduled exam
-- Upcoming exam list ordered by date
+- Exam schedule ordered by date, with past exams labeled by elapsed days
 - Filters for all, high-priority, and medium-priority exams
 - Add a subject, exam date, coverage note, and priority
 - Confirmation before removing an exam
